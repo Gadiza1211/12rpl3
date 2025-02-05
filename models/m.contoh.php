@@ -8,7 +8,7 @@ class user
 {
 
     //membuat atribut (property)/ variabel
-    public $nama;
+    public $nam;
     
     //membuat fungsi
     function tampil ()
